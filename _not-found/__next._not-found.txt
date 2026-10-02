@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[39756,["/electrical-shop-app-web/_next/static/chunks/94d7a40530a91f69.js","/electrical-shop-app-web/_next/static/chunks/03f6b0887308f403.js","/electrical-shop-app-web/_next/static/chunks/5cf06d999c85d978.js"],"default"]
+3:I[37457,["/electrical-shop-app-web/_next/static/chunks/94d7a40530a91f69.js","/electrical-shop-app-web/_next/static/chunks/03f6b0887308f403.js","/electrical-shop-app-web/_next/static/chunks/5cf06d999c85d978.js"],"default"]
+0:{"buildId":"C0DG5ew1Acp30X89K8634","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

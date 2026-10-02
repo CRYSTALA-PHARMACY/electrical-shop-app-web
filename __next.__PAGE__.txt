@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[47257,["/electrical-shop-app-web/_next/static/chunks/5cf06d999c85d978.js"],"ClientPageRoot"]
+3:I[52683,["/electrical-shop-app-web/_next/static/chunks/94d7a40530a91f69.js","/electrical-shop-app-web/_next/static/chunks/03f6b0887308f403.js","/electrical-shop-app-web/_next/static/chunks/24329ec5a0e30ee0.js","/electrical-shop-app-web/_next/static/chunks/d7989658f979cf8b.js","/electrical-shop-app-web/_next/static/chunks/7e979b7553d01f76.js"],"default"]
+6:I[97367,["/electrical-shop-app-web/_next/static/chunks/5cf06d999c85d978.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"C0DG5ew1Acp30X89K8634","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/electrical-shop-app-web/_next/static/chunks/24329ec5a0e30ee0.js","async":true}],["$","script","script-1",{"src":"/electrical-shop-app-web/_next/static/chunks/d7989658f979cf8b.js","async":true}],["$","script","script-2",{"src":"/electrical-shop-app-web/_next/static/chunks/7e979b7553d01f76.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
